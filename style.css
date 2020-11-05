@@ -6,6 +6,13 @@ img {
   width:300px;
   height:300px;
 }
+
+#page {
+  width: 30px;
+  align-items: center;
+  margin-left: 49.3%;
+}
+
 .insta{
   width:30px;
   height:30px;
@@ -15,7 +22,6 @@ h1{
   text-align: center;
   color:#002131;
   font-size: 4em;
-  text-align: center;
   text-shadow: 1px 1px 20px hsla(0,100%,100%,0.3);
   
   
