@@ -5,6 +5,8 @@ img {
   margin-right: auto; 
   width:300px;
   height:300px;
+  margin-top: 30px;
+  border-radius: 30px;
 }
 
 #page {
@@ -43,6 +45,8 @@ ol{
   color:#002131;
   margin-left:42%;
   font-size: 20px;
+  align-items: center;
+  justify-content: center;
   
 }
 body {
